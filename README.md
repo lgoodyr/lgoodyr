@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lgoodyr
+- 👋 Hi, I’m Larry Goodyear @lgoodyr
 - 👀 I’m interested in crypto security research
 - 🌱 I’m currently learning Solana
 - 📫 larry.s.goodyear@gmail.com
